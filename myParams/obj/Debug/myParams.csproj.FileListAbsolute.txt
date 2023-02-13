@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\obj\Debug\myParams.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\obj\Debug\myParams.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\obj\Debug\myParams.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\bin\Debug\myParams.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\bin\Debug\myParams.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\bin\Debug\myParams.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\obj\Debug\myParams.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\myParams\obj\Debug\myParams.pdb

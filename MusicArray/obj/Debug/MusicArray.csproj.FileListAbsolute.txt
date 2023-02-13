@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\bin\Debug\MusicArray.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\bin\Debug\MusicArray.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\bin\Debug\MusicArray.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\obj\Debug\MusicArray.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\obj\Debug\MusicArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\obj\Debug\MusicArray.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\obj\Debug\MusicArray.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\MusicArray\obj\Debug\MusicArray.pdb

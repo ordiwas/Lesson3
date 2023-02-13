@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\bin\Debug\FunWithMusic.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\bin\Debug\FunWithMusic.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\bin\Debug\FunWithMusic.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\obj\Debug\FunWithMusic.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\obj\Debug\FunWithMusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\obj\Debug\FunWithMusic.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\obj\Debug\FunWithMusic.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson3\FunWithMusic\obj\Debug\FunWithMusic.pdb
